@@ -14,6 +14,7 @@
 
 - 🌱 I'm a Computer Science student at the Cambodia Academy of Digital Technology.
 - 💻 Aspiring to become a skilled developer and passionate about learning new technologies.
+- 💻 I selected to be Data Science as my main goal and then I continue to research about AI and Machine Learning
 - 🍜 Fun Fact: I love to relax with friends and enjoy good food.
 
 ### Tech Stack
