@@ -53,7 +53,6 @@
 - Diving deeper into ROS2 for robotics applications.
 - Strengthening skills in PHP and MySQL for web development.
 
-<br>
 <img align="right" height="230" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFlOHl4ODRmYmc5Z2U1cmRwN2licmpjMTNraGwyaDNvN21rN292ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
 
 ### How to Reach Me
