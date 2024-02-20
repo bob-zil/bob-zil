@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Sovan Chandara</h1>
-<h3 align="center">Computer Science Student | Aspiring Developer</h3>
+<h3 align="center">Computer Science Student | Aspiring Data Scientist</h3>
 
 <p align="center">
   <a href="https://kh.linkedin.com/in/sovan-chandara-700ab9270" target="_blank">
@@ -16,16 +16,17 @@
 - 💻 Aspiring to become a skilled developer and passionate about learning new technologies.
 - 💻 I selected to be Data Science as my main goal and then I continue to research about AI and Machine Learning
 - 🍜 Fun Fact: I love to relax with friends and enjoy good food.
-<br>
+
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZtcjJ2djlmbHZyMWhjN3ZhNGlrZWU0MHVxbWVtM2Z2MGJhcGozcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"  />
 
 
 
 ### Tech Stack
 
-- **Languages:** Python, PHP , Java 
-- **Frameworks:** ROS2 
-- **Database:** MySQL
+- **Languages:** Python, PHP, Java 
+- **Frameworks:** ROS2, Laravel
+- **Database:** MySQL, Anaconda, Miniconda, Pandas, Numpy, Power BI
+- **OS:** Windows, Ubuntu, Fedora
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -42,10 +43,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
-
-###
 
 ### Currently Learning
 
@@ -61,8 +66,15 @@
 
 ### Connect with Me
 
-- [LinkedIn](https://kh.linkedin.com/in/sovan-chandara-700ab9270)
-- [Facebook](https://www.facebook.com/sovan.chandara.589)
+- [LinkedIn](https://kh.linkedin.com/in/sovan-chandara-700ab9270)          . [Instagram](https://www.instagram.com/arad.navos?igsh=aXh5cHRnaTVoc2Fo&utm_source=qr)    
+- [Facebook](https://www.facebook.com/sovan.chandara.589)                  . [Twitter](https://twitter.com/DaraSovan250449)
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
 
 <br>
 <hr style="height:2px; border:none; color:#333; background-color:#333; margin-top: 20px; margin-bottom: 20px;">
