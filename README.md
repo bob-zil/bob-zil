@@ -1,5 +1,8 @@
 <h1 align="center">Hi there! 👋 I'm Sovan Chandara</h1>
 <h3 align="center">Computer Science Student | Aspiring Developer</h3>
+<br>
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZtcjJ2djlmbHZyMWhjN3ZhNGlrZWU0MHVxbWVtM2Z2MGJhcGozcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"  />
+
 
 <p align="center">
   <a href="https://kh.linkedin.com/in/sovan-chandara-700ab9270" target="_blank">
@@ -19,8 +22,8 @@
 
 ### Tech Stack
 
-- **Languages:** Python, PHP
-- **Frameworks:** ROS2
+- **Languages:** Python, PHP , Java 
+- **Frameworks:** ROS2 
 - **Database:** MySQL
 
 ### Currently Learning
