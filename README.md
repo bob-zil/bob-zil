@@ -16,7 +16,7 @@
 - 💻 Aspiring to become a skilled developer and passionate about learning new technologies.
 - 💻 I selected to be Data Science as my main goal and then I continue to research about AI and Machine Learning
 - 🍜 Fun Fact: I love to relax with friends and enjoy good food.
-  <br>
+<br>
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZtcjJ2djlmbHZyMWhjN3ZhNGlrZWU0MHVxbWVtM2Z2MGJhcGozcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"  />
 
 
@@ -52,6 +52,9 @@
 - Exploring advanced concepts in Python.
 - Diving deeper into ROS2 for robotics applications.
 - Strengthening skills in PHP and MySQL for web development.
+
+<br>
+<img align="right" height="200" src="[/2IudUHdI075HL02Pkk/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFlOHl4ODRmYmc5Z2U1cmRwN2licmpjMTNraGwyaDNvN21rN292ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif)"  />
 
 ### How to Reach Me
 
