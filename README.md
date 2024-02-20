@@ -64,6 +64,7 @@
 - [LinkedIn](https://kh.linkedin.com/in/sovan-chandara-700ab9270)
 - [Facebook](https://www.facebook.com/sovan.chandara.589)
 
+<br>
 <hr style="height:2px; border:none; color:#333; background-color:#333; margin-top: 20px; margin-bottom: 20px;">
 
 ### Projects
