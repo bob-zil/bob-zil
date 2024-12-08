@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Sovan Chandara</h1>
-<h3 align="center">Computer Science Student | Aspiring Data Scientist</h3>
+<h3 align="center">Computer Science Student | Aspiring to Data Scientist</h3>
 
 <p align="center">
   <a href="https://kh.linkedin.com/in/sovan-chandara-700ab9270" target="_blank">
